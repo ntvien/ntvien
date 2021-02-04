@@ -50,44 +50,8 @@
 ![Fiction_NTV's github stats](https://github-readme-stats.vercel.app/api?username=ntvien&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ntvien&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=ntvien&theme=gruvbox" />
-
-
-<a href="https://github.com/rafi0101/Android-Room-Database-Backup" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafi0101&repo=Android-Room-Database-Backup&theme=gruvbox"></a>
-<a href="https://github.com/rafi0101/Stundenplan" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafi0101&repo=Stundenplan&theme=gruvbox"></a>
-
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ntvien)
-
-### 🚀💻 Technologies & Tools
-  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)  
-  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
-
-
-  ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
-
-  ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-
-  ![Android](https://img.shields.io/badge/Android-05150C?style=flat-square&logo=android)
-  ![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase)
-  ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
-  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-  ![Google Chrome](https://img.shields.io/badge/Chrome-black?style=flat-square&logo=google-chrome)
-  ![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)
-  ![Cisco](https://img.shields.io/badge/Cisco-black?style=flat-square&logo=cisco)
-
-
-
-
-
-
-
-
-
-
 
 
 
