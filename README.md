@@ -4,10 +4,6 @@
   <img align="left" alt="Vien Nguyen | Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
 
-<a href="https://www.instagram.com/nt_vien/">
-  <img align="left" alt="nt_vien | Instagram" width="22px" src="https://www.google.com/search?q=logo+instagram&rlz=1C1CHBF_enVN867VN867&sxsrf=ALeKk02FvsJaGP9jlqSgNH4q2SwRRVlMCA:1612428880309&tbm=isch&source=iu&ictx=1&fir=ftgvh06JeQZn0M%252Cn7e4IojnLIKC8M%252C_&vet=1&usg=AI4_-kQCJJ_xiEqDngXsCv4leBuUDQhgCg&sa=X&ved=2ahUKEwiuqYvV7c_uAhVKdCsKHdhOCh4Q9QF6BAgPEAE&biw=1536&bih=760#imgrc=ftgvh06JeQZn0M" />
-</a>
-
 <a href="https://www.youtube.com/channel/UCsXXYMQKcEyRaO7-RoEkoYg">
   <img align="left" alt="Fiction_NTV | Youtube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 </a>
