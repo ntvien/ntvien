@@ -8,12 +8,11 @@
   <img align="left" alt="Fiction_NTV | Youtube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 </a>
 
-
-### 🤵 About Me:
-
 [![GitHub ntvien](https://img.shields.io/github/followers/ntvien?label=follow&style=social)](https://github.com/ntvien)
 
-- 🏦 I'm studying computer science at [![Ho Chi Minh City University of Technology](https://www.hcmut.edu.vn/vi)[](https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif)
+
+### 🤵 About Me:
+- 🏦 I'm studying computer science at [![Ho Chi Minh City University of Technology](https://www.hcmut.edu.vn/vi)[ ](https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif)
 - 💻 I use daily **.py**, **.sql**
 <!--  - 🌱 I’m currently learning docker and kubernetes -->
 <!--  - 💬 Talk to me about cricket, python (both of these are not any kind of insect or animals), silicon valley & startups  -->
