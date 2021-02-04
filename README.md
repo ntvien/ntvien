@@ -1,6 +1,10 @@
-<h2> Hi, I'm Vien! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" width="40px"/> I'm <a href="https://shahriarshafin.me/" target="_blank">Vien</a>. Nice to see you.<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
+
 
 [![GitHub ntvien](https://img.shields.io/github/followers/ntvien?label=follow&style=social)](https://github.com/ntvien)
+
+![Profile views](https://gpvc.arturio.dev/ntvien?v=3)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ntvien)
 
 - 🏦 I'm studying computer science at [Ho Chi Minh City University of Technology](https://www.hcmut.edu.vn/vi) <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="50">      
 <!-- - 💻 I use daily **.py**, **.sql** -->
@@ -10,6 +14,11 @@
 - ⚡ Fun fact: Je connais un peu le français -->
 - 👯 We can connect to play some games of Chess ♟
 
+<p>
+ <img align="right" src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/programmer.gif" width="310px">
+</p>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ntvien&theme=tokyonight_duo)](https://github.com/DenverCoder1/github-readme-streak-stats)
 ---
 ### 🤵 About Me :
 
@@ -50,8 +59,6 @@
 ![Fiction_NTV's github stats](https://github-readme-stats.vercel.app/api?username=ntvien&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ntvien&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=ntvien&theme=gruvbox" />
-
 
 <a href="https://github.com/rafi0101/Android-Room-Database-Backup" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafi0101&repo=Android-Room-Database-Backup&theme=gruvbox"></a>
 <a href="https://github.com/rafi0101/Stundenplan" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafi0101&repo=Stundenplan&theme=gruvbox"></a>
@@ -59,7 +66,7 @@
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ntvien)
+
 
 ### 🚀💻 Technologies & Tools
   ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
@@ -84,9 +91,23 @@
 
 
 
+### Languages and Tools:
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/html.gif" width="70">
+  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/css.gif" width="70">
+  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/js.webp" width="70">
+ <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/git.gif" width="130">
+  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/bootstrap.gif" width="70">
+  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/github.webp" width="70">
+  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/vscode.webp" width="70">
+</p>
 
-
-
+### 📫 Connect with me<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px">
+ 
+<a href="https://www.linkedin.com/in/shahriarshafin/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>|<a href="https://twitter.com/shhriar_shafin"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-128.png" width="40"></a>|<a href="https://www.youtube.com/c/ShahriarShafin/videos"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Youtube_colored_svg-128.png" width="40"></a>|<a href="https://www.facebook.com/shhriar.shafin"><img src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-128.png" width="40"></a>|<a href="mailto:shafinshahriar340@gmail.com"><img src="https://image.flaticon.com/icons/svg/281/281769.svg" width="40"></a>|
+|--|--|--|--|--|
+<br>
+<br>
 
 
 
