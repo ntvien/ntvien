@@ -1,5 +1,10 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" width="40px"/> I'm <a href="https://shahriarshafin.me/" target="_blank">Vien</a>. Nice to see you.<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 
+[![GitHub ntvien](https://img.shields.io/github/followers/ntvien?label=follow&style=social)](https://github.com/ntvien)
+
+<h4 align="center">Visitor's count :eyes:</h4>
+<p align="center"><img src="https://profile-counter.glitch.me/{ntvien}/count.svg" alt="ntvien :: Visitor's Count" /></p>
+
 - 🏦 I'm studying computer science at [Ho Chi Minh City University of Technology](https://www.hcmut.edu.vn/vi) <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="50">      
 - 👯 We can connect to play some games of Chess ♟
 
@@ -38,11 +43,9 @@
 <a href="https://github.com/ntvien/EbookStore_Assignment_201" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ntvien&repo=EbookStore_Assignment_201&theme=gruvbox"></a>
 </p>
 
-<h4 align="center">Visitor's count :eyes:</h4>
+
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-<br />
-<p align="center"><img src="https://profile-counter.glitch.me/{ntvien}/count.svg" alt="ntvien :: Visitor's Count" /></p>
 
 
 ### 📫 Connect with me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px">
@@ -52,12 +55,12 @@
 [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/nt_vien/)
 [<img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" width="3.5%"/>](https://www.youtube.com/channel/UCsXXYMQKcEyRaO7-RoEkoYg)
 <a href="mailto:thevien898@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
-[![GitHub ntvien](https://img.shields.io/github/followers/ntvien?label=follow&style=social)](https://github.com/ntvien)
 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 <br>
-
+<br>
+<br>
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
