@@ -1,7 +1,7 @@
 <h2> Hi, I'm Vien! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 ---
-###  About Me 🤵:
+### 🤵 About Me :
 
 <a href="https://www.facebook.com/fiction.ntv/"><img align="left" alt="Vien Nguyen | Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
@@ -9,10 +9,12 @@
 <a href="https://www.youtube.com/channel/UCsXXYMQKcEyRaO7-RoEkoYg"><img align="left" alt="Fiction_NTV | Youtube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 </a>
 
+<a href="https://www.instagram.com/nt_vien/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+
 [![GitHub ntvien](https://img.shields.io/github/followers/ntvien?label=follow&style=social)](https://github.com/ntvien)
 
 - 🏦 I'm studying computer science at [Ho Chi Minh City University of Technology](https://www.hcmut.edu.vn/vi) <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="50">      
-- 💻 I use daily **.py**, **.sql**
+<!-- - 💻 I use daily **.py**, **.sql** -->
 <!--  - 🌱 I’m currently learning docker and kubernetes -->
 <!--  - 💬 Talk to me about cricket, python (both of these are not any kind of insect or animals), silicon valley & startups  -->
 <!--  - 📝 I regulary write technical articles on [hashnode](https://apoorvtyagi.tech/) & [dev.to](https://dev.to/apoorvtyagi)
@@ -33,9 +35,11 @@
 </p>
 
 ---
-### My Github stats 📊:
+### 📊 My Github stats :
 
 <h4 align="center">Visitor's count :eyes:</h4>
+
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
 <p align="center"><img src="https://profile-counter.glitch.me/{ntvien}/count.svg" alt="ntvien :: Visitor's Count" /></p>
 
