@@ -71,3 +71,37 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+![Profile views](https://gpvc.arturio.dev/ntvien?v=3)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ntvien)\
+
+
+### 🚀💻 Technologies & Tools
+  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)  
+  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+  ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
+  ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+  ![Android](https://img.shields.io/badge/Android-05150C?style=flat-square&logo=android)
+  ![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase)
+  ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
+  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+  ![Google Chrome](https://img.shields.io/badge/Chrome-black?style=flat-square&logo=google-chrome)
+  ![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)
+  ![Cisco](https://img.shields.io/badge/Cisco-black?style=flat-square&logo=cisco)
+
+
+  <a href="https://www.linkedin.com/in/shahriarshafin/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>|<a href="https://twitter.com/shhriar_shafin"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-128.png" width="40"></a>|
+
+
+  <a href="https://www.youtube.com/channel/UCsXXYMQKcEyRaO7-RoEkoYg"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Youtube_colored_svg-128.png" width="40"></a>|<a href="https://www.facebook.com/fiction.ntv/"><img src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-128.png" width="40"></a>|<a href="mailto:thevien898@gmail.com"><img src="https://image.flaticon.com/icons/svg/281/281769.svg" width="40"></a>|
+|--|--|--|
+<br>
+
+
+[<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://steamcommunity.com/id/mongocds/)
+
+[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/sciencepal)
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/adityapal1/)
