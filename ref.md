@@ -105,3 +105,13 @@ Here are some ideas to get you started:
 
 [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/sciencepal)
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/adityapal1/)
+
+
+
+<a href="https://www.facebook.com/fiction.ntv/"><img align="left" alt="Vien Nguyen | Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
+</a>
+
+<a href="https://www.youtube.com/channel/UCsXXYMQKcEyRaO7-RoEkoYg"><img align="left" alt="Fiction_NTV | Youtube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
+</a>
+
+<a href="https://www.instagram.com/nt_vien/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
