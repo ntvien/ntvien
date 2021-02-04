@@ -23,11 +23,12 @@
     <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/html.gif" width="70">
     <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/css.gif" width="70">
     <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/js.webp" width="70">
-    <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/git.gif" width="130">
+    <!-- <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/git.gif" width="130"> -->
     <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/bootstrap.gif" width="70">
     <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/github.webp" width="70">
     <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/vscode.webp" width="70">
     <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="55" height="55"/>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/>
     <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="110" height="75"/> 
 </p>
 
@@ -37,12 +38,14 @@
 ![Fiction_NTV's github stats](https://github-readme-stats.vercel.app/api?username=ntvien&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ntvien&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
+<br>
+<br>
+<br>
 
 <p align="center">
 <a href="https://github.com/ntvien/SmartFoodCourtBK" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ntvien&repo=SmartFoodCourtBK&theme=gruvbox"></a>
 <a href="https://github.com/ntvien/EbookStore_Assignment_201" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ntvien&repo=EbookStore_Assignment_201&theme=gruvbox"></a>
 </p>
-
 
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
@@ -55,7 +58,8 @@
 [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/nt_vien/)
 [<img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" width="3.5%"/>](https://www.youtube.com/channel/UCsXXYMQKcEyRaO7-RoEkoYg)
 <a href="mailto:thevien898@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
-
+<br>
+<br>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 <br>
