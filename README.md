@@ -9,10 +9,10 @@
 - 👯 We can connect to play some games of Chess ♟
 
 <br>
+
 <p><img align="right" src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/programmer.gif" width="310px"></p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ntvien&theme=tokyonight_duo)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
 
 
 ### 👨🏻‍💻 Languages and Tools:
@@ -32,13 +32,13 @@
     <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="110" height="75"/> 
 </p>
 
+<br>
 
 ### 📊 My Github stats :
 
 ![Fiction_NTV's github stats](https://github-readme-stats.vercel.app/api?username=ntvien&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ntvien&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
-<br>
 <br>
 <br>
 
