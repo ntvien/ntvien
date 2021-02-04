@@ -47,17 +47,24 @@
 <a href="https://github.com/ntvien/EbookStore_Assignment_201" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ntvien&repo=EbookStore_Assignment_201&theme=gruvbox"></a>
 </p>
 
-
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
-
 ### 📫 Connect with me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px">
- 
+<p align="center">
+
 [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discord.com/channels/746736983073882273/746736983073882276)
 [<img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" width="3.5%"/>](https://www.facebook.com/fiction.ntv/)
 [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/nt_vien/)
 [<img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" width="3.5%"/>](https://www.youtube.com/channel/UCsXXYMQKcEyRaO7-RoEkoYg)
+
+
+<a href="https://discord.com/channels/746736983073882273/746736983073882276"> <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/> </a>
+<a href="https://www.facebook.com/fiction.ntv/"> <img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" width="3.5%"/> </a>
+<a href="https://www.instagram.com/nt_vien/"> <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/> </a>
+<a href="https://www.youtube.com/channel/UCsXXYMQKcEyRaO7-RoEkoYg"> <img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" width="3.5%"/> </a>
 <a href="mailto:thevien898@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
+</p>
+
 <br>
 <br>
 
