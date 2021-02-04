@@ -1,17 +1,16 @@
+### f
 <h2> Hi, I'm Vien! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-<a href="https://www.facebook.com/fiction.ntv/">
-  <img align="left" alt="Vien Nguyen | Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
+<a href="https://www.facebook.com/fiction.ntv/"><img align="left" alt="Vien Nguyen | Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
 
-<a href="https://www.youtube.com/channel/UCsXXYMQKcEyRaO7-RoEkoYg">
-  <img align="left" alt="Fiction_NTV | Youtube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
+<a href="https://www.youtube.com/channel/UCsXXYMQKcEyRaO7-RoEkoYg"><img align="left" alt="Fiction_NTV | Youtube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 </a>
 
 [![GitHub ntvien](https://img.shields.io/github/followers/ntvien?label=follow&style=social)](https://github.com/ntvien)
 
-
-### 🤵 About Me:
+---
+###  About Me 🤵:
 - 🏦 I'm studying computer science at [Ho Chi Minh City University of Technology](https://www.hcmut.edu.vn/vi) <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="50">      
 - 💻 I use daily **.py**, **.sql**
 <!--  - 🌱 I’m currently learning docker and kubernetes -->
@@ -34,7 +33,7 @@
 </p>
 
 ---
-### 🐱 My Github stats 📊:
+### My Github stats 📊:
 
 <h4 align="center">Visitor's count :eyes:</h4>
 
